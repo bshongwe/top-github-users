@@ -1,0 +1,11 @@
+version: 2
+updates:
+  - package-ecosystem: "npm" # or any other package manager like "pip", "maven", etc.
+    directory: "/" # location of the package manifest
+    schedule:
+      interval: "daily"
+      time: "00:00"
+    commit-message:
+      prefix: "deps"
+    open-pull-requests-limit: 10
+    rebase-strategy: "auto"
