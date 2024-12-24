@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Flag_of_Iraq.svg" alt="Iraq">
 </a>
 
-The `public contributions` by users in Iraq on `2024/12/22 4:43 PM UTC`. This list contains users from `Iraq` and cities `Baghdad` `Mosul` `Basra` `Erbil` `Najaf`.
+The `public contributions` by users in Iraq on `2024/12/24 3:34 PM UTC`. This list contains users from `Iraq` and cities `Baghdad` `Mosul` `Basra` `Erbil` `Najaf`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/bshongwe/top-github-users).
 
