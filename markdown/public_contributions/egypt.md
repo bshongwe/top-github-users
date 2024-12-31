@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg" alt="Egypt">
 </a>
 
-The `public contributions` by users in Egypt on `2024/12/30 3:09 AM UTC`. This list contains users from `Egypt` and cities `Cairo` `Luxor` `Alexandria` `Giza` `Aswan`.
+The `public contributions` by users in Egypt on `2024/12/31 11:41 PM UTC`. This list contains users from `Egypt` and cities `Cairo` `Luxor` `Alexandria` `Giza` `Aswan`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/bshongwe/top-github-users).
 
