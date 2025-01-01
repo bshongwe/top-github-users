@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Mongolia.svg" alt="Mongolia">
 </a>
 
-The `public contributions` and `private contributions` by users in Mongolia on `2024/12/30 4:55 PM UTC`. This list contains users from `Mongolia` and cities `Ulaanbaatar` `Ulaangom`.
+The `public contributions` and `private contributions` by users in Mongolia on `2025/1/1 3:40 PM UTC`. This list contains users from `Mongolia` and cities `Ulaanbaatar` `Ulaangom`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/bshongwe/top-github-users).
 
