@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg" alt="Hungary">
 </a>
 
-The `number of followers` of users in Hungary on `2025/1/26 9:31 AM UTC`. This list contains users from `Hungary` and cities `Budapest` `Debrecen` `Szeged` `Miskolc` `Pécs` `Győr`.
+The `number of followers` of users in Hungary on `2025/1/28 6:46 AM UTC`. This list contains users from `Hungary` and cities `Budapest` `Debrecen` `Szeged` `Miskolc` `Pécs` `Győr`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/bshongwe/top-github-users).
 
