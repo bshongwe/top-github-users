@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Mongolia.svg" alt="Mongolia">
 </a>
 
-The `number of followers` of users in Mongolia on `2025/2/5 7:42 AM UTC`. This list contains users from `Mongolia` and cities `Ulaanbaatar` `Ulaangom`.
+The `number of followers` of users in Mongolia on `2025/2/7 7:31 AM UTC`. This list contains users from `Mongolia` and cities `Ulaanbaatar` `Ulaangom`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/bshongwe/top-github-users).
 
