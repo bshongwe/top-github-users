@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg" alt="Iran">
 </a>
 
-The `public contributions` by users in Iran on `2025/2/10 5:32 PM UTC`. This list contains users from `Iran` and cities `Tehran` `Isfahan` `Tabriz` `Shiraz` `Mashhad` `Qom`.
+The `public contributions` by users in Iran on `2025/2/12 5:34 PM UTC`. This list contains users from `Iran` and cities `Tehran` `Isfahan` `Tabriz` `Shiraz` `Mashhad` `Qom`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/bshongwe/top-github-users).
 
