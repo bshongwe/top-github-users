@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Qatar.svg" alt="Qatar">
 </a>
 
-The `number of followers` of users in Qatar on `2025/2/17 5:54 AM UTC`. This list contains users from `Qatar` and cities `Doha`.
+The `number of followers` of users in Qatar on `2025/2/19 5:36 AM UTC`. This list contains users from `Qatar` and cities `Doha`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/bshongwe/top-github-users).
 
