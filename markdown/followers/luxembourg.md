@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/d/da/Flag_of_Luxembourg.svg" alt="Luxembourg">
 </a>
 
-The `number of followers` of users in Luxembourg on `2025/3/12 5:53 PM UTC`. This list contains users from `Luxembourg` and cities`Luxembourg` and cities `Echternach` `Esch-sur-alzette` `Pétange`.
+The `number of followers` of users in Luxembourg on `2025/3/14 8:41 PM UTC`. This list contains users from `Luxembourg` and cities`Luxembourg` and cities `Echternach` `Esch-sur-alzette` `Pétange`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/bshongwe/top-github-users).
 
