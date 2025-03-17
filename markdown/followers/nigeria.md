@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg" alt="Nigeria">
 </a>
 
-The `number of followers` of users in Nigeria on `2025/3/15 5:53 AM UTC`. This list contains users from `Nigeria` and cities `Lagos` `Ibadan` `Abuja` `Port-harcourt` `Benin-city` `Ilorin` `Kano`.
+The `number of followers` of users in Nigeria on `2025/3/17 4:46 AM UTC`. This list contains users from `Nigeria` and cities `Lagos` `Ibadan` `Abuja` `Port-harcourt` `Benin-city` `Ilorin` `Kano`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/bshongwe/top-github-users).
 
