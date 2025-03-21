@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Flag_of_Senegal.svg" alt="Senegal">
 </a>
 
-The `number of followers` of users in Senegal on `2025/3/19 2:55 PM UTC`. This list contains users from `Senegal` and cities `Dakar`.
+The `number of followers` of users in Senegal on `2025/3/21 7:40 PM UTC`. This list contains users from `Senegal` and cities `Dakar`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/bshongwe/top-github-users).
 
