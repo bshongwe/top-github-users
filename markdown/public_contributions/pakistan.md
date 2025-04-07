@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg" alt="Pakistan">
 </a>
 
-The `public contributions` by users in Pakistan on `2025/4/5 9:43 PM UTC`. This list contains users from `Pakistan` and cities `Islamabad` `Karachi` `Lahore` `Faisalabad` `Peshawar`.
+The `public contributions` by users in Pakistan on `2025/4/7 11:53 PM UTC`. This list contains users from `Pakistan` and cities `Islamabad` `Karachi` `Lahore` `Faisalabad` `Peshawar`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/bshongwe/top-github-users).
 
